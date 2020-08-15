@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-- 🌱 I’m currently learning *Full Stack* at @altcampus
+- 🌱 I’m currently learning *Full Stack* at [@altcampus](https://altcampus.io/)
 - 📫 How to reach me: ikushaldave@gmail.com
 
 
